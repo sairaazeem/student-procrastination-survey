@@ -1,5 +1,5 @@
 # student-procrastination-survey
-Apsychology survey project exploring procrastination habits among university students.
+A psychology survey project exploring procrastination habits among university students.
 
 Project Overview
 A survey about procrastination among university students and the reasons students delay their academic tasks.
