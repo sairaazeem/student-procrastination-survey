@@ -26,6 +26,7 @@ Project Files
 "project-plan.md" — Survey goals and objectives.
 "survey.md" — Survey questions for students.
 "data-documentation.md" — How survey data is recorded and organized.
+This project explores procrastination among university students.
 
 Ethical Considerations
 Participation will be voluntary. Responses will be treated respectfully and used only for educational purposes.
